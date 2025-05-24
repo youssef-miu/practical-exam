@@ -1,5 +1,5 @@
 #include <iostream>
 int main(){
-cout<<"Hello world"<<endl;
+cout<<"Good afternoon world!!"<<endl;
 
 }
